@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "27352889619",
+    "firebase_url": "https://sonder-1742c.firebaseio.com",
+    "project_id": "sonder-1742c",
+    "storage_bucket": "sonder-1742c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27352889619:android:680918b76dcf5e98",
+        "android_client_info": {
+          "package_name": "com.googleyeyes.sonder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27352889619-5k0r9c1mooibjm6hsm31rbo04t1pvajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jSMqPRz-gmjx4Yjp51vhAN_i-5n1Wvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

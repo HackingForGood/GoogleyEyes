@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Login">
+			<method name="TryLogin"/>
+			<method name="SetScreen"/>
+			<method name="SetScreen"/>
+			<method name="SetScreen"/>
+		</type>
+	</assembly>
+</linker>
